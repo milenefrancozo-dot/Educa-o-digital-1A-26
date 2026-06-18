@@ -1,6 +1,6 @@
 header {
-    background-color: rgb(34, 219, 219)
-    color: #FFFFFF
+    background-color: #00e3f7;
+    color: #FFFFFF;
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
@@ -26,8 +26,8 @@ article {
 }
 
 main img {
-    width: 20px;
-    height: 20px;
+    width: 80px;
+    height: 80px;
     display: block;
 }
 
